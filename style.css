@@ -9,7 +9,7 @@ body {
     width: 100vw;
     height: 40vw;
 
-    background-image: url("backgroung.jpg");
+    background-image: url("walp.jpg");
     background-size: cover;
     display: flex;
     align-items: center;
@@ -17,11 +17,11 @@ body {
 }
 
 .login_page {
-    width: 400px;
+    width: 450px;
     height: 500px;
     background-color: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(10px);
-     display: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
